@@ -11,7 +11,7 @@ button.addEventListener("click", function () {
         //全角環境版
         var result_1 = "";
         result_1 += "┏";
-        for (var i = 0; i < width - 2; i++) {
+        for (var i_1 = 0; i_1 < width - 2; i_1++) {
             result_1 += "━";
         }
         result_1 += "┓\n";
@@ -26,7 +26,7 @@ button.addEventListener("click", function () {
             result_1 += "\n";
         });
         result_1 += "┗";
-        for (var i = 0; i < width - 2; i++) {
+        for (var i_2 = 0; i_2 < width - 2; i_2++) {
             result_1 += "━";
         }
         result_1 += "┛";
