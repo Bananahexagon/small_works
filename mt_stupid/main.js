@@ -1,4 +1,3 @@
-"use strict";
 var input = document.querySelector("#input");
 var button = document.querySelector("#button");
 var output = document.querySelector("#result");
@@ -33,3 +32,4 @@ button.addEventListener("click", function () {
         output.value = result_1;
     }
 });
+export default 0;

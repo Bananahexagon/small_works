@@ -29,3 +29,5 @@ button.addEventListener("click", () => {
         output.value = result;
     }
 })
+
+export default 0;
